@@ -54,7 +54,7 @@ export default function Prompts() {
         ) : prompts.length === 0 ? (
           <div className="flex flex-col items-center justify-center py-24 gap-3 text-gray-600">
             <span className="text-4xl">🎨</span>
-            <p className="text-sm">No prompts yet. Head to Canvas and submit one.</p>
+            <p className="text-sm">No prompts yet. Create one yourself!</p>
           </div>
         ) : (
           <ul className="space-y-3">
