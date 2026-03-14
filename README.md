@@ -2,7 +2,7 @@
 
 You submit a drawing prompt. Someone else draws it. That's pretty much it.
 
-No accounts, no login — you get a random UUID dropped in a cookie on first visit and that's your identity.
+No accounts, no login, much secure, very identity.
 
 ## How it works
 
